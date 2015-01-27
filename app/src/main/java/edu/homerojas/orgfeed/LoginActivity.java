@@ -389,7 +389,7 @@ public class LoginActivity extends PlusBaseActivity implements LoaderCallbacks<C
     }
 }
 
-//This is a test comment push
+//This is a test comment push - and this is Jorge collaborating to OrgFeed
 
 
 
