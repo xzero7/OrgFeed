@@ -18,3 +18,7 @@ App Specifications:
 2. Work with Andriod Jellybean and Up
 
 
+Status:
+-Postponed due to requirement restrictions, and client need. Pushing for FAll 2015
+
+
